@@ -1,4 +1,4 @@
-# EJERCICE - To Do List 
+# EXERCICE - To Do List 
 ## App para crear y eliminar tareas
 Ejercicio desarrollado en Javascript para crear listado de tareas.
 ## _Descripción_
